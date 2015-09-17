@@ -493,8 +493,8 @@ margin-left:auto;display:block;}
 @media (max-width: 420px) {
 	.eventAbody{
 		padding:12px;
-		padding-left:0%;
-		padding-right:0%;
+		padding-left:3%;
+		padding-right:3%;
 	}
 	.innerTitle{
 		padding-top:23px;
