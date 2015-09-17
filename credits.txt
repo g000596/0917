@@ -1,0 +1,17 @@
+Credits: 
+
+此版是由 Bootstrap(http://getbootstrap.com/getting-started/ - MIT license) 提供的 Demo/Examples 修改及應用(customize and adapt)而成的,其中亦使用了以下 Open sourse:
+The web is made by adapting and customizing from the demos and examples provided by Boostrap.
+
+Bootstrap - Designed and built with all the love in the world by @mdo and @fat. Maintained by the core team with the help of contributors of Bootstrap. Code licensed under MIT.
+
+Bootstrap Hover Dropdown Plugin : Author: Cameron Spear | MIT License
+
+grids - Javascript-Equal-Height-Responsive-Rows Author: Sam (Sam152)| https://github.com/Sam152/Javascript-Equal-Height-Responsive-Rows | MIT license.
+
+Jquery library  - Copyright 2015 The jQuery Foundation. | MIT license. 
+		- Jquery License: https://jquery.org/license/
+
+Jquery UI library - Copyright 2015 The jQuery Foundation. | MIT license. https://jquery.org/license/
+		  - Jquery License: https://jquery.org/license/
+
